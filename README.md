@@ -2,7 +2,7 @@
   I'm Harvey Watson, Front-End Developer :computer: 
   </br>
   <div>
-  <a href="https://harveycw.netlify.app/" target="_blank">
+  <a href="https://rngnnn.netlify.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
@@ -11,9 +11,9 @@
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HarveyCla&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarveyCla.HarveyCla)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rngnnn&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rngnnn&hide=TeX&layout=compact) </br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rngnnn.rngnnn)
 
 ## Skills
 
@@ -39,16 +39,16 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://harveycw.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
+  <a href="https://rngnnn.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
   <a href="mailto:harvey@clarusway.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="https://www.linkedin.com/in/harveyy/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
+  <a href="https://www.linkedin.com/in/rngnnn/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
 <p align="right">
   <img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" align="right" style="width:300px" />
  </p>
 <!--
-**HarveyCla/HarveyCla** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**rngnnn/rngnnn** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :telescope: I'
 -->
