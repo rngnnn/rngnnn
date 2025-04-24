@@ -2,7 +2,7 @@
   I'm Rengin , Front-End Developer :computer: 
   </br>
   <div>
-  <a href="https://rngnnn.netlify.app/" target="_blank">
+  <a href="https://who-am-i-eight.vercel.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
@@ -39,9 +39,9 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://rngnnn.netlify.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
-  <a href="mailto:harvey@clarusway.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
-  <a href="https://www.linkedin.com/in/rngnnn/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
+  <a href="https://who-am-i-eight.vercel.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
+  <a href="mailto:rngnnnclk@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
+  <a href="https://www.linkedin.com/in/rengin-forbes/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
 <p align="right">
